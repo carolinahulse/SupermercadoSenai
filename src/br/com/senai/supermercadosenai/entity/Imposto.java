@@ -1,7 +1,7 @@
 package br.com.senai.supermercadosenai.entity;
 import java.math.BigDecimal;
 public class Imposto {
-	private Integer id;
+	private Integer id;//Novo comentario
 	private BigDecimal valor;
 	
 	public Integer getId() {
